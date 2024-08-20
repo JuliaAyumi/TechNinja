@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../styles/perfil.css">
+    <title>Meu Perfil</title>
+</head>
+
+
+
+<body>
+    <header>
+        <div class="header-options">
+            <a href="/quizes"><img src="/icons/icon-back.png" alt="Icone Voltar"></a>
+        </div>
+    </header>
+        <h1>Perfil do Usuário</h1>
+    
+        <div>
+            <img th:src="@{${usuario.profilePicture}}" />
+            <h2 th:text="${usuario.username}"></h2>
+            <p th:text="'Email: ' + ${usuario.email}"></p>
+            <p th:text="'Nível da conta: ' + ${usuario.accountLevel}"></p>
+    
+            <h3>Quizzes Completos</h3>
+            <ul>
+                <li th:each="quiz : ${usuario.completedQuizzes}">
+                    <span th:text="${quiz}"></span>
+                </li>
+            </ul>
+        </div>
+</body>
+
+</html>

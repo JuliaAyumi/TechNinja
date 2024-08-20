@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.cdnfonts.com/css/karasha" rel="stylesheet"> <!-- Link da fonte -->
+    <link rel="stylesheet" href="../../styles/cadastro.css">
+    <title>TechNinja</title>
+
+    <style>
+        .error {
+            border-color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h3><a href="">TECHNINJA</a></h3>
+        
+    </header>
+
+    <main>
+        <div id="popup" style="display: none; position: fixed; width: 200px; height: 100px; background: white; border: 1px solid black; padding: 10px; z-index: 1000;">
+            <p>Por favor, corrija os erros antes de enviar o formulário.</p>
+            <button id="closePopup">Fechar</button>
+        </div>
+      
+        <div class="left-column">            
+            <form class="left-column" action="/cadastro" method="post">
+                                <!--Inicio - Mensagem de erro-->
+                                <span th:text="${error}"></span>
+                                <!--Fim - Mensagem de erro-->
+                <label for="nome"></label><br>
+                <input type="text" placeholder="Nome" id="nome" name="nome" required><br>
+                <input type="text" id="email" name="email" placeholder="Email" required><br>
+                <input type="password" id="senha" placeholder="Senha" name="senha" required><br>
+                <span id="passwordError" style="color: red;"></span><br>
+                <input type="password" id="repSenha" placeholder="Repetir Senha" name="repSenha" required><br>
+                
+                <input type="submit" class="button" value="Cadastrar">
+            </form>
+        </div>
+
+        <div class="right-column">
+            <img src="/images/logoDark.png" alt="TechNinja logo" class="main-image">
+        </div>
+    </main>
+    <script th:src="@{/js/valid.js}"></script>
+</body>
+</html>

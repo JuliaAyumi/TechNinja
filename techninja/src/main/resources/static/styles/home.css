@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, 'Karasha', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 0.2em 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h3 {
+    font-size: 1.6em;
+    font-family: 'KARASHA';
+    cursor: pointer;
+}
+
+header img {
+    height: 1.9em;
+}
+
+.header-options {
+    display: flex;
+    gap: 2rem;   
+    filter: invert(1);
+}
+
+.header-options img:hover {
+    transform: scale(1.1)
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 1em;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
+    margin: auto 2em;
+}
+
+/* Áreas de conhecimento */
+.quizes-area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 60em; 
+    background-color: white;
+    padding: 1.6em;
+}
+
+.quizes-area> div{
+    text-align: center;
+    padding: 6em 0;
+}
+
+.area-conhecimento {
+    width: calc(33.33% - 20px); /* Espaço entre os retângulos */
+    height: 25em;
+    margin: 2em 2em;
+    background-color:#a1ff8e;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.2s;
+    border-radius: 0.3em;
+    flex: 1;
+    text-align: center;
+}
+
+.area-conhecimento img {
+    height: 2.5em;
+}
+
+.area-conhecimento:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+@media only screen and (max-width: 700px){
+    main {
+      flex-direction: column;
+    }  
+
+    header{
+        height: 5em;
+    }
+
+    .area-conhecimento {
+        width: 25em;
+        margin: 1em 5em;
+        padding: 1.5em;
+    }
+}  
+
+dark-theme
+
+.dark-theme {
+    --color-background: #000000;
+    --color-text: #ffffff;
+}

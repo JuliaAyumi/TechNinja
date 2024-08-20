@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+   
+   <!--=============== FAVICON ===============-->
+   <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+
+   <!--=============== REMIXICONS ===============-->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.4.0/remixicon.css" crossorigin="">
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.cdnfonts.com/css/karasha" rel="stylesheet"> <!-- Link da fonte -->
+    <link rel="stylesheet" href="/styles/tutorial.css">
+   
+</head>
+<body>
+   <header class="header" id="header">
+      <nav class="nav container">
+         <div class="nav__buttons">
+            <i class="ri-moon-line" id="theme-button"></i>
+
+            <div class="nav__toggle" id="nav-toggle">
+               <i class="ri-menu-4-line"></i>
+            </div>
+         </div>
+      </nav>
+   </header>
+     
+    <div id="tutorial">
+        <h1>Título do Tutorial</h1>
+        <p>Este é um tutorial que muda de cor com o tema. Quando você clica no botão "Mudar tema", o fundo e o texto mudam de cor.</p>
+    </div>
+
+    
+    <button id="theme-button">Mudar tema</button>
+    <img src="/icons/icon-darkmode-white.png" id="theme-button" alt="Icone de uma lua para ativar modo escuro">
+    <script th:src="@{/js/theme.js}"></script>
+</body>
+</html>

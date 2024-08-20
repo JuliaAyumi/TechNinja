@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Testes</title>
+</head>
+<body>
+    <h1>Bem-vindo, <span th:text="${logedEmail}"></span>!</h1>
+
+    <h2>Informações do usuário:</h2>
+    <ul>
+        <li th:each="entry : ${userInfo}">
+            <span th:text="${entry.key}"></span>: <span th:text="${entry.value}"></span>
+        </li>
+    </ul>
+
+
+
+    selecionar dificuldade  para o quiz
+
+<form id="formSelection" onsubmit="return enviarForms()">
+    <label for="tema">Escolha um tema:</label>
+    <select id="tema" name="tema">
+        <option value="Tema%201">Tema: 01</option>
+
+    </select>
+    <button type="submit">enviar</button>
+    </form>
+
+    <script>
+        function enviarForms(){
+            var tema = document.getElementById('tema').value;
+            var difficulty = 'facil'
+            var url = 'quizes?difficulty='+ encodeURIComponent(difficulty) +'&theme='+encodeURIComponent(tema);
+            window.location.href = url
+            console.log(url);
+            return false;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.cdnfonts.com/css/karasha" rel="stylesheet">
+    <link rel="stylesheet" href="../../styles/quizes.css">
+    <title>Quizzes</title>
+</head>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Obtendo o email logado da sessão
+        const logedEmail = document.getElementById('logedEmail').dataset.email;
+    
+        // Obtendo todos os elementos de quiz
+        const quizElements = document.querySelectorAll('.quiz');
+    
+        // Para cada elemento de quiz...
+        quizElements.forEach(function(quizElement) {
+            // Obtendo a dificuldade e o tema do quiz
+            const difficulty = quizElement.dataset.difficulty;
+            const theme = quizElement.dataset.theme;
+    
+            // Verificando se o quiz foi concluído
+            const isCompleted = localStorage.getItem(`quiz-completed-${difficulty}-${theme}`);
+            console.log(`quiz-completed-${difficulty}-${theme}: ${isCompleted}`); // Imprime o valor de isCompleted no console
+    
+            if (isCompleted) {
+                // Se o quiz foi concluído, mude a cor de fundo para verde, mude a classe para 'quizComplete' e bloqueie o redirecionamento
+                quizElement.className = 'quizComplete';
+                quizElement.style.backgroundColor = 'green';
+                quizElement.onclick = function(event) {
+                    event.preventDefault();
+                }
+            }
+        });
+    
+        window.goToQuiz = function(difficulty, theme) {
+            // Se o quiz não foi concluído, redirecione para a URL do quiz
+            const isCompleted = localStorage.getItem(`quiz-completed-${difficulty}-${theme}`);
+            if (!isCompleted) {
+                window.location.href = `quizes?difficulty=${difficulty}&theme=${theme}&email=${logedEmail}`;
+            }
+        }
+    });
+    </script>
+    
+<body>
+<span id="logedEmail" th:data-email="${logedEmail}" th:text="${logedEmail}"></span>
+    <header>
+        <div class="header-options">
+            <a href="/home"><img src="/icons/icon-back.png" alt="Icone Voltar"></a>
+        </div>
+    </header>
+
+    <main>
+        <div class="user-area">
+            <div class="user-data">
+                <h3>Suas Badges</h3>
+            </div>
+
+            <div class="conquistas">
+                <img src="" alt="Award">
+                <img src="" alt="Award">
+                <img src="" alt="Award">
+            </div>
+        </div>
+
+        <div class="quizes-area">
+            <div class="quiz" data-difficulty="facil" data-theme="Tema 2" onclick="goToQuiz('facil', 'Tema%202')">
+                <h1>01 - O que é Programação?</h1>
+                
+            </div>
+
+            <div class="quiz" onclick="window.location.href='/perguntas'">
+                <h1>02 - Primeiros Passos com Python</h1>
+            </div>
+
+            <div class="quiz" data-difficulty="facil" data-theme="Tema 1" onclick="goToQuiz('facil', 'Tema%201')">
+                <h1>02 - O que é Programação?</h1>
+            </div>
+            <div class="quiz" onclick="window.location.href='quizes?difficulty=facil&theme=Tema%202&logedEmail=' + document.getElementById('logedEmail').textContent">
+                <h1>03 - Tema 3</h1>
+            </div>
+            <div class="quiz" onclick="window.location.href='/perguntas'">
+                <h1>03 - Tipos de Dados</h1>
+            </div>
+
+            <div class="quiz" onclick="window.location.href='/perguntas'">
+                <h1>04 - Tipos de Coleções</h1>
+            </div>
+
+            <div class="quiz" onclick="window.location.href='/perguntas'">
+                <h1>05 - Estrutura de Condição e Repetição</h1>
+            </div>
+        </div>
+    </main>
+
+    
+</body>
