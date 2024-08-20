@@ -1,0 +1,1719 @@
+{
+  "perguntas": [
+    {
+      "area": "História da Tecnologia",
+      "dificuldade": "Fácil",
+      "pergunta": "Quem é conhecido como o pai da computação",
+      "alternativas": ["Alan Turing", "Steve Jobs", "Bill Gates", "Tim Berners-Lee"],
+      "resposta": 0
+    },
+    {
+      "area": "História da Tecnologia",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual foi o primeiro computador eletrônico digital?",
+      "alternativas": ["ENIAC", "IBM 360", "Apple I", "UNIVAC"],
+      "resposta": 0
+    },
+ {
+      "area": "História da Tecnologia",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual foi o ano do lançamento do primeiro iPhone?",
+      "alternativas": ["2005", "2007", "2010", "2009"],
+      "resposta": 1
+    },
+ {
+      "area": "História da Tecnologia",
+      "dificuldade": "Fácil",
+      "pergunta": "Quem é considerado o inventor da World Wide Web (WWW)?",
+      "alternativas": ["Bill Gates", "Tim Berners-Lee", "Mark Zuckerberg", "Larry Page"],
+      "resposta": 1
+    },
+ {
+      "area": "História da Tecnologia",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual foi o primeiro sistema operacional de código aberto?",
+      "alternativas": ["Windows", "Linux", "MacOS", "Android"],
+      "resposta": 1
+    },
+ {
+      "area": "História da Tecnologia",
+      "dificuldade": "Médio",
+      "pergunta": "Qual foi o primeiro programa de computador?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Microsoft Word"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Adobe Photoshop"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Hello, World!"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Internet Explore"
+        }
+      ],
+      "resposta": "C"
+    },
+ {
+      "area": "História da Tecnologia",
+      "dificuldade": "Médio",
+      "pergunta": "Qual foi o primeiro computador pessoal?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Apple I"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "IBM PC"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Altair 8800"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Commodore PET"
+        }
+      ],
+      "resposta": "C"
+    }, 
+{
+      "area": "História da Tecnologia",
+      "dificuldade": "Médio",
+      "pergunta": "Qual foi o primeiro navegador de internet?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Internet Explore"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Google Chrome"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "NCSA Mosaic"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Mozilla Firefox"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "História da Tecnologia",
+      "dificuldade": "Médio",
+      "pergunta": "Qual foi o primeiro vídeo a ser carregado no YouTube?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Me at the zoo"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Evolution of Dance"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Charlie Bit My Finger"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Gangnam Style"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "História da Tecnologia",
+      "dificuldade": "Médio",
+      "pergunta": "Qual foi o ano de lançamento do primeiro Macintosh?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "1980"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "1984"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "1990"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "1986"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "História da Tecnologia",
+      "dificuldade": "Difícil",
+      "pergunta": "Quem fundou a Apple junto com Steve Jobs?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Bill Gates"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Steve Wozniak"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Jeff Bezos"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Larry Page"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "História da Tecnologia",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual foi o primeiro computador a ter um mouse e uma interface gráfica de usuário?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "IBM 360"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Macintosh"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "ENIAC"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Altair 8800"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "História da Tecnologia",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual foi o primeiro e-mail enviado na internet?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "QWERTYUIOP"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "LO"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "LOGIN"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "TEST"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "História da Tecnologia",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual empresa lançou o primeiro smartphone Android?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Samsung"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Google"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Apple"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "HTC"
+        }
+      ],
+      "resposta": "D"
+    },
+{
+      "area": "História da Tecnologia",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual foi o primeiro website do mundo?",
+      "alternativas": [
+        {
+          "opcao": "A ",
+          "textoOpcao": "CERN"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Yahoo"
+        },
+        { 
+          "opcao": "C",
+          "textoOpcao": "Google"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Amazon"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é a estrutura de controle de fluxo que permite executar um bloco de código repetidamente até que uma condição seja falsa?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "If-else"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "For"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "While"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Switch"
+        }
+      ],
+      "resposta": "A"
+    }, 
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Fácil",
+      "pergunta": "Em qual linguagem de programação a função print() é utilizada para exibir mensagens na tela?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Python"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Java"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "C#"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "JavaScript"
+        }
+      ],
+    "resposta": "A"
+    },
+
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é o operador lógico que representa a negação em muitas linguagens de programação?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "&&"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "||"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "!"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "=="
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é o resultado da operação 5 + '5' em JavaScript?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "10"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "55"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "'10'"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "NaN"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Fácil",
+      "pergunta": "Em um loop em Python, qual instrução é usada para pular a iteração atual e continuar para a próxima?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "continue"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "break"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "pass"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "skip"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Médio",
+      "pergunta": "Qual é o resultado da operação true && false em linguagens como JavaScript e Java?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "true"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "false"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "null"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "SyntaxError"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Médio",
+      "pergunta": "O que é um algoritmo de ordenação que percorre a lista várias vezes, trocando os elementos adjacentes que estão fora de ordem?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Bubble Sort"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Selection Sort"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Insertion Sort"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Merge Sort"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Médio",
+      "pergunta": "Qual é o resultado da operação 10 % 3 em linguagens como Python e JavaScript?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "1"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "0"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "3.33"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "10"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Médio",
+      "pergunta": "Em python, qual é o resultado da expressão 3 * '3'?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "9"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "'333'"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "333"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "SyntaxError"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Médio",
+      "pergunta": "Em Java, qual é a palavra-chave usada para definir uma classe pai de outra classe?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "parent"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "base"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "superclass"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "extends"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é a complexidade de tempo do algoritmo de busca binária?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "O(1)"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "O(log n)"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "O(n)"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "O(n^2)"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é um algoritmo NP-completo?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um algoritmo que é fácil de resolver em tempo polinomial"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um algoritmo que pode ser resolvido em tempo exponencial"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um algoritmo que não tem solução"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um algoritmo para o qual não se conhece um algoritmo eficiente, mas todas as soluções possíveis podem ser verificadas em tempo polinomial"
+        }
+      ],
+      "resposta": "D"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é a extrutura de dados que armazena elementos em pares chave-valor?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Array"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "List"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Dictionary"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Set"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é a ordem de complexidade média do algoritmo Quicksort?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "O(n)"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "O(n log n)"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "O(n^2)"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "O(log n)"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Lógica de Programação",
+      "dificuldade": "Difícil",
+      "pergunta": "Em C, qual é o operador usado para acessar o valor de uma variável por meio de um ponteiro?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "*"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "&"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "->"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "."
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual linguagem de marcação é utilizada para estruturar o conteúdo de uma página web?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "HTML"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "CSS"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "JavaScript"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "PHP"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual linguagem de estilização é utilizada para definir a apresentação visual de uma página web?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "HTML"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "CSS"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "JavaScript"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "SQL"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual dos seguintes é um exemplo de um framework front-end popular para desenvolvimento web?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "React.js"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Django"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Laravel"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Express.js"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual linguagem de programação mais comumente usada para adicionar interatividade a páginas web?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "HTML"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "CSS"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "JavaScript"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "PHP"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é o principal objetivo do design responsivo em desenvolvimento web?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Melhorar a segurança do site"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Aumentar a velocidade de carregamento"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Garantir que o site seja visualmente atraente em diferentes dispositivos"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Otimizar o código do site para SEO"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Médio",
+      "pergunta": "Qual é a diferença entre == e === em JavaScript?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Ambos os operadores são idênticos e podem ser usados de forma intercambiável em qualquer situação"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "== compara apenas os valores das variáveis, equanto === compara tanto os valores quanto os tipos de dados das variáveis"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "== é usado para comparações de valores em variáveis de tipo primitivo, equanto === é usado para comparações de referências de objetos"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "== é usado para comparações de valores em variáveis de tipo objeto, equanto === é usado para comparações de valores em variáveis de tipo primitivo"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Médio",
+      "pergunta": "Qual dos seguintes não é um tipo de seletores CSS?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Classe"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "ID"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Elemento"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Variável"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Médio",
+      "pergunta": "Qual é a função do JavaScript no desenvolvimento web?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Estruturar o conteúdo da página"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Estilizar a página"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Adicionar interatividade e dinamismo à página"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Manipular o banco de dados"
+        }
+      ], 
+      "resposta": "C"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Médio",
+      "pergunta": "Qual método HTTP é usado quando um formulário é enviado via método GET?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "POST"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "DELETE"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "GET"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "PUT"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Médio",
+      "pergunta": "Qual é o formato de troca de dados amplamente usado em APIs RESTful?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "XML"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "HTML"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "JSON"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "CSV"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é o padrão de projeto frequentemente usado em desenvolvimento web para separar a lógica de apresentação da lógica de negócios?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "MVC (Model-View-Controller)"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "MVP (Model-View-Presenter)"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "MVVM (Model-View-ViewModel)"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "MVW (Model-View-Whatever)"
+        }
+      ],
+      "resposta": "D"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é a função da meta tag <meta charset='UTF-8'> em HTML?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Definir o idioma da página"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Definir o conjunto de caracteres da página"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Definir o título da página"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Definir a codificação da página"
+        }
+      ],
+      "resposta": "D"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é o significado de AJAX em desenvolvimento web?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Assíncrono JavaScript e XML"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Aplicativo Java Assíncrono e XML"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Arquitetura Java para Aplicações Web XML"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Acesso JavaScript Assíncrono a XML"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é o propósito do método fetch() em JavaSript?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Para enviar requisições HTTP assíncronas a servidores web e recuperar dados"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Para criar uma nova instância de um objeto"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Para adicionar um evento de clique a um elemento HTML"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Para calcular intervalo entre duas datas"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Desenvolvimento WEB",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é a diferença entre cookies e sessionStorage em JavaScript?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Cookies e sessionStorage são dois termos diferentes para se referir à mesma funcionalidade de armazenamento de dados no navegador"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Cookies são usados para armazenar pequenas quantidades de dados que são enviados de volta ao servidor em cada requisição HTTP, enquanto o sessionStorage é usado para armazenar dados temporários no lado do cliente durante a sessão de navegação"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Cookies são armazenados no lado do cliente de forma persistente mesmo após o fechamento do navegador, equanto o sessionStorage é temporário e é excluído quando a sessão de navegação é encerrada"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Cookies e sessionStorage são conceitos obsoletos em desenvolvimento web e não são mais utilizados devido a questão de segurança"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é o objetivo principal da modelagem de dados em um projeto de banco de dados?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Armazenar arquivos de texto"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Representar a estrutura e relacionamentos dos dados do sistema"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Criar designs gráficos"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Testar a interface do usuário"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é o conceito básico usado para representar uma entidade em um diagrama de modelo entidade-relacionamento (ER)?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Funções"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Entidade"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Comentários"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Atributos"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Fácil",
+      "pergunta": "Em um diagrama entidade-relacionamento (ER), qual é a função do relacionamento entre duas entidades?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Definir a cor das entidades"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Descrever a associação ou conexão entre as entidades"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Determinar a ordem de exibição das entidades"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Especificar a largura da linha das entidades"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Fácil",
+      "pergunta": "O que são atributos em um modelo entidade-relacionamento (ER)?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Características que descrevem uma entidade ou relacionamento"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Cores usadas para destacar partes importantes do diagrama ER"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Nomes dados aos diagramas ER"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Conexões entre entidades"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é a finalidade dos diagramas entidade-relacionamento (ER) na modelagem de dados?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Desenhar retratos dos usuários"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Visualizar a estrtura lógica do banco de dados e seus relacionamentos"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Criar animações para entretenimento"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Testar a funcionalidade do banco de dados"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Médio",
+      "pergunta": "O que é cardinalidade em um diagrama entidade-relacionamento (ER)?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Definir o número máximo de vezes que uma instância de uma entidade pode estar relacionada a instâncias de outra entidade"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Representa a cor predominante no diagrama ER"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Indica o número total de entidades em um banco de dados"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Especifica a fonte e o tamanho do texto nas entidades"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Médio",
+      "pergunta": "Qual é a diferença entre uma chave primária e uma chave estrangeira em um banco de dados?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "A chave primária é usada para referenciar registros em outras tabelas, equanto a chave estrangeira é uma identificação exclusiva para cada registro em uma tabela"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "A chave primária identifica exclusivamente cada registro em uma tabela, equanto a chave estrangeira estabelece uma relação entre duas tabelas"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Não há diferença entre uma chave primária e uma chave estrangeira"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "A chave primária é opcional, equanto a chave estrangeira é obrigatória"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Médio",
+      "pergunta": "Qual é o propósito de um índice em um banco de dados?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Alterar a estrutura da tabela"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Acelerar a recuperação de dados ao permitir acesso rápido a registros específicos"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Adicionar cores aos registros da tabela"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Definir regras de negócio para os dados"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Médio",
+      "pergunta": "O que é normalização em uma banco de dados?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Processo de organização de dados em uma estrutura lógica eficiente para reduzir redundância e melhorar a integridade dos dados"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Conversão de dados em diferentes formatos"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Transformação de dados em informações visuais"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Criptografia de dados sensíveis"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Médio",
+      "pergunta": "Em um diagrama entidade-relacionamento (ER), o que representa a linha dupla entre duas entidades?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "A largura da linha"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um relacionamento identificativo ou forte, indicando que uma instância da entidade relacionada sempre deve existir"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um relacionamento fraco, indicando que uma instância da entidade relacionada pode ou não existir"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "A cor da linha"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é a forma normalização de Boyce-Codd (FNBC) em modelagem de banco de dados?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Uma técnica para coloração de diagramas ER"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Uma linguagem de consulta de banco de dados"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um modelo de rede para estruturar dados"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Uma forma normal mais restrita do que a terceira forma normal (3FN), projetada para eliminar dependências transitivas"
+        }
+      ],
+      "resposta": "D"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Difícil",
+      "pergunta": "No contexto de modelagem de dados, o que é uma relação ternária?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Uma relação entre três entidades distintas"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Uma relação entre duas entidades"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Uma relação que envolve três entidades e pode ser representada por uma tabela de associação"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Uma relação entre uma entidade e uma chave primária"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é um modelo conceitual em modelagem de dados?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um modelo que descreve a implementação física do banco de dados"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Uma representação visual dos dados armazenados em um banco de dados"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Uma linguagem de consulta de banco de dados"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um modelo que descreve a estrutura lógica e as relações dos dados sem se preocupar com detalhes de implementação"
+        }
+      ],
+      "resposta": "D"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Difícil",
+      "pergunta": "Qual é o objetivo do particionamento de dados em um banco de dados distribuído?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Dividir grandes volumes de dados em partes menores para distribuição em vários servidores"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Consolidar todos os dados em um único servidor para facilitar o gerenciamento"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Criar backups redundantes de todos os dados em um único servidor"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Criar cópias exatas dos dados em vários servidores para fins de redundância"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Modelagem de Dados",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é um índice composto em um banco de dados?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um índice que contém informações sobre uma única coluna"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Uma índice que contém informações sobre duas ou mais colunas"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um índice que contém informações sobre uma tabela inteira"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um índice que contém informações sobre uma chave estrangeira"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Fácil",
+      "pergunta": "O que é um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um software de edição de texto"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um programa de design gráfico"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um software que gerencia recursos de hardware e fornece serviços para aplicativos de software"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um aplicativo de navegação na internet"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é a função principal de um escalonador de processos em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Formatar o disco rígido"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Definir a resolução da tela"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Gerenciar a ordem de execução dos processos em um computador"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Monitorar a temperatura do processador"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Fácil",
+      "pergunta": "O que é multitarefa em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Capacidade de executar múltiplos programas simultaneamente, compartilhando o tempo de CPU"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Capacidade de executar apenas um programa de cada vez"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Capacidade de conectar múltiplos dispositivos de entrada ao computador"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Capacidade de salvar vários arquivos em único diretório"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Fácil",
+      "pergunta": "Qual é a função de um sistema de arquivos em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Gerenciar a memória RAM"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Organizar e armazenar dados em dispositivos de armazenamento de forma estruturada"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Gerenciar a conexão com a internet"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Gerenciar a resolução da tela"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Fácil",
+      "pergunta": "O que é uma interface de linha de comando (CLI) em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Uma interface baseada em texto que permite aos usuários interagir com o sistema por meo de comandos digitados"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Uma interface gráfica que exibe ícones e janelas"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Uma interface de áudio que responde a comandos de voz"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Uma interface de realidade virtual para interação com o sistema"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Médio",
+      "pergunta": "O que é um sistema de arquivos hierárquico em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um sistema que armazena todos os arquivos em uma única pasta"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um sistema que organiza os arquivos em uma estrutura de diretórios ou pastas"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um sistema que não permite a criação de subpastas"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um sistema que armazena arquivos em uma única lista sem hierarquia"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Médio",
+      "pergunta": "Qual é a diferença entre um sistema operacional de 32 bits e um de 64 bits?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "O tamanho do disco rígido suportadas"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "O número de programas que podem ser executados simultaneamente"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "O tamanho dos registradores de CPU e a capacidade de endereçamento de memória"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "O número de cores de CPU suportadas"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Médio",
+      "pergunta": "O que é uma página de swap em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Uma área de armazenamento em disco usada para trocar dados entre a RAM e o disco rígido quando a RAM está cheia"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Uma página da web que fornece informações sobre o sistema operacional"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Uma página inicial personalizada para o usuário"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Uma página de configurações avançadas do sistema operacional"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Médio",
+      "pergunta": "O que é um processo em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um programa de software que gerencia a execução de outros programas"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Uma unidade de armazenamento de dados em disco "
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Uma instância de um programa em execução, incluindo suas instruções, dados e contexto de execução"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um sistema que não suporta a criação de diretórios"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Médio",
+      "pergunta": "O que é um sistema de arquivos distribuído em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um sistema que armazena todos os arquivos em um único local físico"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um sistema que não permite o compartilhamento de arquivos entre usuários"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um sistema que permite o acesso e compartilhamento de arquivos em uma rede de computadores"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um sistema que não suporta a criação de diretórios"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é o agendamento de E/S (Entrada/Saída) em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um mecanismo para coordenar e otimizar a transferência de dados entre dispositivos de E/S e a memória principal"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um algoritmo para organizar os dispositivos de E/S em uma rede"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um processo para verificar a integridade dos dados armazenados nos dispositivos de E/S"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um protocolo para autenticação de dispositivos de E/S na rede"
+        }
+      ],
+      "resposta": "A"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é um sistema de arquivos transacional em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um sistema de arquivos que não suporta transações de banco de dados"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um sistema de arquivos que armazena apenas arquivos de texto"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um sistema de arquivos que mantém a consistência dos dados mesmo em caso de falhas ou interrupções do sistema"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um sistema de arquivos que não permite a criação de diretórios"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é um sistema de arquivos distribuído de replicação em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um sistema que armazena cópias redundantes de todos os arquivos em um único servidor"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um sistema que armazena cópias de arquivos em vários servidores para redundância e desempenho"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um sistema que permite acesso remoto a arquivos em um único servidor"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um sistema que não permite compartilhamento de arquivos entre usuários"
+        }
+      ],
+      "resposta": "B"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é escalonamento de CPU em um sistema operacional?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um processo para aumentar a velocidade da CPU"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um processo para desativar núcleos de CPU ociosos"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um processo para selecionar qual processo será executado pela CPU em determinado momento"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um processo para diminuir a temperatura da CPU"
+        }
+      ],
+      "resposta": "C"
+    },
+{
+      "area": "Sistemas Operacionais",
+      "dificuldade": "Difícil",
+      "pergunta": "O que é um sistema sistema operacional de tempo real?",
+      "alternativas": [
+        {
+          "opcao": "A",
+          "textoOpcao": "Um sistema que opera em velocidades extremamente altas"
+        },
+        {
+          "opcao": "B",
+          "textoOpcao": "Um sistema projetado para responder a eventos ou comandos em tempo determinístico e previsível"
+        },
+        {
+          "opcao": "C",
+          "textoOpcao": "Um sistema que suporta apenas operações básicas de entrada/saída"
+        },
+        {
+          "opcao": "D",
+          "textoOpcao": "Um sistema que não permite a execução de múltiplos programas simultaneamente"
+        }
+      ],
+      "resposta": "B"
+    } ]
+}
