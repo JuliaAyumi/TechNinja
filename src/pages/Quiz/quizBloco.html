@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../styles/quizBloco.css">
+    <link rel="icon" href="../../assets/images/logoDark.png">
+    <title>Quiz</title>
+</head>
+
+<body>
+    <header>
+        <div class="header-options">
+            <a onclick="verificarSaida()"><img src="../../assets/icons/icon-back.png" title="Voltar" alt="Icone Voltar"></a>
+        </div>
+    </header>
+
+    <main>
+        <div class="area-pergunta">
+            <div class="question-block">
+                <h2>Qual é o operador lógico que representa a negação em muitas linguagens de programação?</h2>
+            </div>
+        
+            <div class="answers-block">
+                <input type="radio" class="resposta-item" id="resposta1" name="resposta1"><label for="resposta1">A) &&</label>
+                <input type="radio" class="resposta-item" id="resposta2" name="resposta2"><label for="resposta2">B) ||</label>
+                <input type="radio" class="resposta-item" id="resposta3" name="resposta3"><label for="resposta3">C) !</label>
+                <input type="radio" class="resposta-item" id="resposta4" name="resposta4"><label for="resposta4">D) ==</label>
+            </div>
+        </div>
+
+        <div class="area-pergunta">
+            <div class="question-block">
+                <h2>Em qual linguagem de programação a função print() é utilizada para exibir mensagens na tela?</h2>
+            </div>
+        
+            <div class="answers-block">
+                <input type="radio" class="resposta-item" id="resposta5" name="resposta5"><label for="resposta5">A) Python</label>
+                <input type="radio" class="resposta-item" id="resposta6" name="resposta6"><label for="resposta6">D) JavaScript</label>
+                <input type="radio" class="resposta-item" id="resposta7" name="resposta7"><label for="resposta7">C) C#</label>
+                <input type="radio" class="resposta-item" id="resposta8" name="resposta8"><label for="resposta8">D) JavaScript</label>
+            </div>
+        </div>
+
+        <div class="area-pergunta">
+            <div class="question-block">
+                <h2>Qual linguagem de estilização é utilizada para definir a apresentação visual de uma página web?</h2>
+            </div>
+        
+            <div class="answers-block">
+                <input type="radio" class="resposta-item" id="resposta9" name="resposta9"><label for="resposta9">A) HTML</label>
+                <input type="radio" class="resposta-item" id="resposta10" name="resposta10"><label for="resposta10">B) CSS</label>
+                <input type="radio" class="resposta-item" id="resposta11" name="resposta11"><label for="resposta11">C) JavaScript</label>
+                <input type="radio" class="resposta-item" id="resposta12" name="resposta12"><label for="resposta12">D) SQL</label>
+            </div>
+        </div>
+                
+        <div class="botoes">
+            <button id="button2" onclick="verificarResposta()">Finalizar</button>
+        </div>
+    </main>
+    <script src="./quiz.js"></script>
+</body>
+
+</html>

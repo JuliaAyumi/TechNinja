@@ -1,0 +1,116 @@
+/* Estilo geral */
+body {
+    font-family: Arial, 'KARASHA', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    font-size: 0.99em;
+}
+
+/* Header fixo */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 80em;
+    height: 1em;
+    padding: 1em;
+    background-color: white;
+    font-family: 'KARASHA';
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 3em 0 0 0;
+}
+
+/* Lado esquerdo */
+.left-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 0 5em 8em;
+}
+
+form{
+    display: contents;
+}
+
+div>form>div{
+    color: #BF3F3F;
+}
+
+/* Lado direito */
+.right-column {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em 6em 2em 0;
+}
+
+input {
+    margin: 0.4em;
+    padding: 0.5em 1em;
+    height: 1.5em;
+    width: 28em;
+    border: 1px solid #000;
+    border-radius: 0.6em;
+}
+
+/* Botão */
+.button {
+    margin: 0.5em;
+    height: 2.5em;
+    width: 18em;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 0.6em;
+    background-color: black;
+    color: white;
+
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color:#03A65A;
+    color: white;
+}
+
+.main-image {
+    height: 30em;
+    justify-content:center
+}
+
+@media only screen and (max-width: 700px){
+    main {
+      flex-direction: column;
+      padding: 8em;
+      margin: 0em 0em;
+    }    
+
+    .main-image {
+        height: 20em;
+    }
+
+    input {
+        width: 20em;
+    }
+
+    .right-column, .left-column {
+        padding: 4em;
+    }
+}
