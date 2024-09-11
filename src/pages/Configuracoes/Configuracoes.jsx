@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "TechNinja/src/pages/Configuracoes/Configuracoes.css";
+
 import { Link } from "react-router-dom";
 import { useAuth } from "../../hooks/AuthContext";
 
