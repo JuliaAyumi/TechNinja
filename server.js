@@ -14,13 +14,18 @@ app.use(cors());
 app.use(express.json());
 
 mongoose
-  .connect()
+  .connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
     console.log("Conectado ao MongoDB Atlas");
   })
   .catch((error) => {
     console.error("Erro ao conectar no MongoDB:", error);
   });
+
+// Rota para a raiz
+app.get("/", (req, res) => {
+  res.send("Olá, mundo! A aplicação está funcionando.");
+});
 
 const userSchema = new mongoose.Schema({
   nome: { type: String, required: true },
