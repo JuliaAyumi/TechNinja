@@ -4,15 +4,7 @@ import cors from "cors";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 import dotenv from "dotenv"
-import path from 'path';
 
-// Configuração para servir arquivos estáticos
-app.use(express.static(path.join(__dirname, 'src')));
-
-// Rota para a raiz
-app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, 'src', 'pages/Inicial/Inicial.jsx'));
-});
 dotenv.config()
 
 const app = express();
@@ -21,6 +13,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
+// Conectar ao MongoDB
 mongoose
   .connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
@@ -29,6 +22,11 @@ mongoose
   .catch((error) => {
     console.error("Erro ao conectar no MongoDB:", error);
   });
+
+// Rota para a raiz
+app.get("/", (req, res) => {
+  res.send("Olá, mundo! A aplicação está funcionando.");
+});
 
 const userSchema = new mongoose.Schema({
   nome: { type: String, required: true },
