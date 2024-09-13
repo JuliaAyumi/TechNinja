@@ -25,7 +25,7 @@ mongoose
 
 // Rota para a raiz
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, 'src','pages','Inicial', 'Inicial.jsx'));
+  res.sendFile(path.join(__dirname, 'src','main.jsx'));
 });
 
 const userSchema = new mongoose.Schema({
